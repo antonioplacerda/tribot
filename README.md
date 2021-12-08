@@ -1,0 +1,2 @@
+# tribot
+An arbitrage bot
